@@ -18,7 +18,7 @@ I am a person who is positive about every aspect of life.
 
 ### Professional background:
 
-4 years of software development experience, My current tool-set include PHP, Laravel, Codeigniter, React, Angular, Vue, Typescript and all the various frameworks, libraries and technologies related to them.
+8 years of software development experience, My current tool-set include PHP, Laravel, Codeigniter, React, Angular, Vue, Typescript and all the various frameworks, libraries and technologies related to them.
 
 I provide good quality services that will help to add value to your business/personal brand and drive more sales through your website or web application.
 
