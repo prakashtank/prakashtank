@@ -27,7 +27,7 @@ Meeting deadlines and quality assurance are important things in my work.
 I am "Perfect" candidate for your contract.
 
 <a href='https://www.upwork.com/o/profiles/users/~0162fd0fabb6f46f37'>
-<img align="left" alt="hire me on upwork" width="220px" height="100px" src="https://dotthemes.com/wp-content/uploads/2019/10/hire-elementor-developer-upwork.jpg" />
+<img align="left" alt="hire me on upwork" width="220px" height="100px" src="https://community.upwork.com/bpyhf24739/attachments/bpyhf24739/freelancers/287724/1/maxresdefault.jpg" />
 </a>
 <br />
 <br />
