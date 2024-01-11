@@ -69,7 +69,6 @@ I am "Perfect" candidate for your contract.
 ---
 
 
-<img align="left" alt="Prakash Tank Github Stats" src="https://github-readme-stats.vercel.app/api?username=prakashtank&show_icons=true&hide_border=true" />
 
 [blank]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA 
 [website]: https://prakashtank.com
