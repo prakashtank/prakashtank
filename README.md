@@ -10,12 +10,6 @@ I believe:<br>
 ForEach ( Minute in My Life ) {​​​​​​​​​​ My Experience++; }​​​​​​​​​​<br>
 I am a person who is positive about every aspect of life.
 
-- 🔭 I’m currently working @ [DayDecoder YouTube channel][youtube]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Reach 10K family at DayDecoder 
-- ⚡ Fun fact: I love to watch movies and learn new things
-
 ### Professional background:
 
 8 years of software development experience, My current tool-set include PHP, Laravel, Codeigniter, React, Angular, Vue, Typescript and all the various frameworks, libraries and technologies related to them.
