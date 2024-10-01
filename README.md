@@ -4,7 +4,7 @@
 
 ## I'm Fullstack Developer based in India!
 
-### PHP | Laravel | VueJs | Codeigniter | Dexterous Developer
+### PHP | Laravel | Codeigniter | React | NodeJs | Dexterous Developer
 
 #### I believe:<br>
 ForEach ( Minute in My Life ) {​​​​​​​​​​ My Experience++; }​​​​​​​​​​<br>
