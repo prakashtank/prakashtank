@@ -61,7 +61,7 @@ Feel free to reach out to discuss your project requirements and how I can help b
 
 
 <a href='https://www.upwork.com/o/profiles/users/~0162fd0fabb6f46f37'>
-<img align="left" alt="hire me on upwork" width="220px" height="100px" src="https://community.upwork.com/bpyhf24739/attachments/bpyhf24739/freelancers/287724/1/maxresdefault.jpg" />
+<img align="left" alt="hire me on upwork" width="220px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/1280px-Upwork-logo.svg.png" />
 </a>
 <br />
 <br />
