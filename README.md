@@ -8,7 +8,7 @@
 
 #### I believe:<br>
 ForEach ( Minute in My Life ) {​​​​​​​​​​ My Experience++; }​​​​​​​​​​<br>
-I am a person who is positive about every aspect of life. 🌟 With a relentless pursuit of excellence and a passion for continuous learning, I bring over 9 years of dedicated software development experience to every project I undertake. 🚀
+Every challenge is an opportunity to learn, every project is a chance to innovate, and every line of code should create lasting value. 🚀
 
 #### Professional background:
 
