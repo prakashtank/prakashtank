@@ -8,7 +8,7 @@
 
 #### I believe:<br>
 ForEach ( Minute in My Life ) {​​​​​​​​​​ My Experience++; }​​​​​​​​​​<br>
-Every challenge is an opportunity to learn, every project is a chance to innovate, and every line of code should create lasting value. 🚀
+Every challenge is an opportunity to learn, every project is a chance to innovate, and every line of code is an opportunity to create lasting value. 🚀
 
 #### Professional background:
 
