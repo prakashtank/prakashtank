@@ -14,7 +14,7 @@ Based in Ahmedabad, India. Working remotely with teams in the US, Canada, the Ne
 
 [![Website](https://img.shields.io/badge/Website-prakashtank.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prakashtank.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prakashtank-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashtank)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017c693a1104305417)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0162fd0fabb6f46f37)
 [![Email](https://img.shields.io/badge/Email-hello%40prakashtank.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@prakashtank.com)
 
 </div>
